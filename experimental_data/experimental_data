@@ -1,0 +1,3 @@
+This folder includes the code that was used to test the REINFORCE-based methods on the experimental data. It also includes the experimental data files. 
+
+The two files called 5DL1_dga and lacUD5_dga are included for completeness, but they are the code provided by Rijal et al. in their Differentiable Gillespie Algorithm paper. 
