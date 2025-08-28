@@ -1,0 +1,1 @@
+This folder includes code that was used to test REINFORCE with simpler examples. It also includes an initial implementation of the Gillespie algorithm without consider loss functions or gradients. 
